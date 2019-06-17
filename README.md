@@ -7,6 +7,7 @@
     * git commit -m "message"
     * git remote add origin https://github.com/tuanpham2018/huythanhicare.git
     * git push -u origin master
-    
+
 //check : git status
     * git add README.md
+    * git commit -m "Edit file RADME.md"
