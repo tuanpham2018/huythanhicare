@@ -1,0 +1,22 @@
+{
+  "name": "techmaster_javascript",
+  "version": "1.0.0",
+  "description": "nodejs_linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HongDuc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanpham2018/huythanhicare.git"
+  },
+  "keywords": [
+    "Nodejs_Linux_proJect"
+  ],
+  "bugs": {
+    "url": "https://github.com/tuanpham2018/huythanhicare/issues"
+  },
+  "homepage": "https://github.com/tuanpham2018/huythanhicare#readme"
+}
